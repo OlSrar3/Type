@@ -25,6 +25,8 @@ public getUserName():any {
     
 }
 
+
+
 /**
  * setUserName
 name:string */
